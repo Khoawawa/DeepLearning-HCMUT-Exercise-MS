@@ -15,4 +15,4 @@ Bài tập này được thực hiện bởi **group_11**:
 * GPU Tesla T4
 
 ### Chạy thực nghiệm
-Để chạy huấn luyện và tái lập kết quả, kết nối với GPU trên colab và chạy **Run All**
+Để chạy huấn luyện và tái lập kết quả, mở [Exercise.ipynb](https://github.com/Khoawawa/DeepLearning-HCMUT-Exercise-MS/blob/main/Exercise.ipynb) trên colab và kết nối với GPU và chạy **Run All**
